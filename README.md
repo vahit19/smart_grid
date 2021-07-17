@@ -5,7 +5,7 @@ Implementation of BERT-NILM tuned with Adaptive Gradient Descent Optimization wi
 
 ## Data
 
-The datasets could be downloaded here: [Turkey Electrical Appliances Dataset (TEAD)](https://github.com/vahit19/smart_grid/blob/main/data.rar) and the Benchmark datasets such as [Residential Energy Disaggregation Dataset (REDD)](http://redd.csail.mit.edu/) and [UK-DALE](https://jack-kelly.com/data/)
+The datasets could be downloaded here: [Turkey Electrical Appliances Dataset (TEAD)](https://github.com/vahit19/smart_grid/blob/main/data.rar) and the Benchmark datasets such as [Residential Energy Disaggregation Dataset (REDD)](http://redd.csail.mit.edu/) with [UK-DALE](https://jack-kelly.com/data/)
 
 We took the liberty of modifying certain appliance names to 'dishwasher', 'fridge', 'microwave', 'washing_machine' and 'kettle' in the 'labels.dat' file, see data folder
 
