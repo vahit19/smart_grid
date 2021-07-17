@@ -1,6 +1,6 @@
 # BERT-NILM-AdaX
 
-PyTorch Implementation of BERT4NILM: A Bidirectional Transformer Model for Non-Intrusive Load Monitoring
+Implementation of BERT-NILM tuned with Adaptive Gradient Descent Optimization with Exponential Long Term Memory (Adax): A Bidirectional Transformer Model for Non-Intrusive Load Monitoring
 
 
 ## Data
