@@ -25,21 +25,13 @@ The trained model state dict will be saved under 'experiments/dataset-name/best_
 
 Our models are trained 100 / 20 epochs repspectively for appliances from REDD and UK-DALE dataset, all other parameters could be found in 'train.py' and 'utils.py'
 
-### REDD
-
-<img src=redd.png width=500>
-
-### UK-DALE
-
-<img src=uk-dale.png width=500>
-
 
 ## Citing 
 Please cite the following paper if you use our methods in your research:
 ```
 @inproceedings{yue2020bert4nilm,
-  title={BERT4NILM: A Bidirectional Transformer Model for Non-Intrusive Load Monitoring},
-  author={Yue, Zhenrui and Witzig, Camilo Requena and Jorde, Daniel and Jacobsen, Hans-Arno},
+  title={BERT-NILM by AdaX: A Bidirectional Transformer Model for Non-Intrusive Load Monitoring},
+  author={Vahit FERYAD, İsmail Hakkı Çavdar},
   booktitle={Proceedings of the 5th International Workshop on Non-Intrusive Load Monitoring},
   pages={89--93},
   year={2020}
