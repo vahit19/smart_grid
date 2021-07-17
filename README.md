@@ -29,7 +29,7 @@ Our models are trained 100 / 20 epochs repspectively for appliances from REDD an
 ## Citing 
 Please cite the following paper if you use our methods in your research:
 ```
-@inproceedings{yue2020bert4nilm,
+@inproceedings{2021MDPI,
   title={BERT-NILM by AdaX: A Bidirectional Transformer Model for Non-Intrusive Load Monitoring},
   author={Vahit FERYAD, İsmail Hakkı Çavdar},
   articletitle={Smart Grid. MDPI Journal of Energies},
