@@ -1,4 +1,4 @@
-# BERT4NILM
+# BERT-NILM-AdaX
 
 PyTorch Implementation of BERT4NILM: A Bidirectional Transformer Model for Non-Intrusive Load Monitoring
 
