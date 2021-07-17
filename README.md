@@ -32,9 +32,8 @@ Please cite the following paper if you use our methods in your research:
 @inproceedings{yue2020bert4nilm,
   title={BERT-NILM by AdaX: A Bidirectional Transformer Model for Non-Intrusive Load Monitoring},
   author={Vahit FERYAD, İsmail Hakkı Çavdar},
-  booktitle={Smart Grid. MDPI Journal of Energies},
-  pages={89--93},
-  year={2020}
+  articletitle={Smart Grid. MDPI Journal of Energies},
+  year={2021}
 }
 ```
 
