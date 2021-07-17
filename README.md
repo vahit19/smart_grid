@@ -23,7 +23,7 @@ The trained model state dict will be saved under 'experiments/dataset-name/best_
 
 ## Performance
 
-Our models are trained 100 / 20 epochs repspectively for appliances from REDD and UK-DALE dataset, all other parameters could be found in 'train.py' and 'utils.py'
+Our models are trained 100 / 20 epochs repspectively for appliances from TEAD, REDD and UK-DALE dataset, all other parameters could be found in 'train.py' and 'utils.py'
 
 
 ## Citing 
