@@ -5,7 +5,7 @@ PyTorch Implementation of BERT4NILM: A Bidirectional Transformer Model for Non-I
 
 ## Data
 
-The csv datasets could be downloaded here: [REDD](http://redd.csail.mit.edu/) and [UK-DALE](https://jack-kelly.com/data/)
+The csv datasets could be downloaded here: [TEAD](https://github.com/vahit19/smart_grid/blob/main/data.rar) and [REDD](http://redd.csail.mit.edu/) and [UK-DALE](https://jack-kelly.com/data/)
 
 We took the liberty of modifying certain appliance names to 'dishwasher', 'fridge', 'microwave', 'washing_machine' and 'kettle' in the 'labels.dat' file, see data folder
 
